@@ -77,11 +77,11 @@ Partial Class loginform
         lbl_title.AutoSize = True
         lbl_title.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
         lbl_title.ForeColor = SystemColors.Control
-        lbl_title.Location = New Point(387, 35)
+        lbl_title.Location = New Point(193, 23)
         lbl_title.Name = "lbl_title"
-        lbl_title.Size = New Size(27, 21)
+        lbl_title.Size = New Size(424, 63)
         lbl_title.TabIndex = 0
-        lbl_title.Text = "sd"
+        lbl_title.Text = "Atimonan Disaster Risk Reduction Management Office" & vbCrLf & "and" & vbCrLf & "Command, Control and Coordinate Center"
         lbl_title.TextAlign = ContentAlignment.MiddleCenter
         ' 
         ' pnl_bot
